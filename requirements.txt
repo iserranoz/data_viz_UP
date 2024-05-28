@@ -8,3 +8,4 @@ osmnx
 folium
 jupyter
 ipykernel
+streamlit_folium
