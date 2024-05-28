@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly_express
+numpy
+matplotlib
+seaborn
+osmnx
+folium
+jupyter
+ipykernel
